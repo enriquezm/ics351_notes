@@ -1,0 +1,34 @@
+Answer the following questions:
+
+1. What is the internet?
+	- global system of interconnected computer networks
+
+2. What is a routing protocol? 
+	- Involves the use of a routing table 
+	- tells routers how to transfer packets from router to router
+
+3. What is IOS?
+	- Operating system used in cisco routers
+	- Much like that of linux, in terms of commands
+
+4. What is network monitoring?
+
+5. What are the following protocols?
+	a. HTTP
+		- HyperText Transfer Protocol
+		- Sends data using TCP/IP
+	b. TCP
+		- Transmission Control Protocol
+		- Deals with packet loss
+		- or insures that packet was not delivered
+		- Sends data in byte code not in packets
+	c. IP
+		- Internet Protocol
+		- Tells a router which is the next hop
+		- Tells a router which interface to use to get to that next hop
+	d. Ethernet
+		- Adds a header to a packet with the source and destination addresses
+		- Wired
+	e. 802.11
+		- Wireless
+		- Adds a header to a packet with the source and destination addresses
