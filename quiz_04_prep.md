@@ -1,4 +1,4 @@
-#Wed, Oct 7, TCP Congestion Control, Ethernet Switching. Quiz at start of class.
+#Wed, Oct 7, TCP Congestion Control, Ethernet Switching. 
 
 ###TCP congestion control
 1. Describe TCP Congestion Control.
@@ -8,9 +8,15 @@
 5. What window controls the tramission rate? Where is this window contained?
 6. When packets are lost, the congestion window shrinks to about what size?
 7. Every round trip time, when no packets are lost, the congestion window grows by what?
-8. 
+8. What other TCP mechanisms are used to lessen congestion?
 
 ###Ethernet switching
+9. True or False. Hubs take 1 bit at a time.
+10. True or False. Hubs broadcast everything.
+11. Why is an Ethernet switch sometimes called a "Learning Switch"?
+12. True or False. Ethernet switches take 5 frames at a time.
+13. What is a "Broadcast Storm"? 
+
 ###Spanning Tree Protocol 
 
 #Mon, Oct 12, Spanning Tree Protocol
